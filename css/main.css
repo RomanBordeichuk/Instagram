@@ -160,7 +160,7 @@ footer nav a img{
 }
 @media (max-width: 600px){
 	.account .img{
-		width: 170px;
+		width: 150px;
 		height: 100%;
 	}
 	.account .img img{
